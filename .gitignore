@@ -1,0 +1,4 @@
+# Folder dan file Visual Studio yang tidak perlu
+.vs/
+bin/
+obj/
